@@ -1,1 +1,2 @@
 1.0.1
+https://github.com/Keyditor/MinecraftS/releases/download/Release/mods.zip
